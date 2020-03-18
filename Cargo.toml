@@ -1,0 +1,9 @@
+[package]
+name = "rust-impl-struct"
+version = "0.1.0"
+authors = ["Jose Luis <artirj@gmail.com"]
+edition = "2018"
+description = "Trying various structures in Rust"
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
